@@ -1,6 +1,11 @@
 .recipes {
   padding: 100px 80px 215px;
   background-color: #0a2750;
+  background-color: #0a2750;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
 }
 
 .recipes__title {
@@ -10,14 +15,17 @@
   line-height: 52px;
   color: #ffffff;
   max-width: 580px;
+  min-width: 438px;
+  margin: 0;
 }
 
 .recipes__subtitle {
   max-width: 438px;
-  font-family: "Noto Serif", "Times New Roman", serif;
+  font-family: "Noto Serif", "Arial", sans-serif;
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
+  margin: 24px 0 80px;
 }
 
 .recipes__videos {

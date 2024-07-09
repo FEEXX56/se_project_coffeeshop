@@ -1,9 +1,7 @@
 .footer {
-  display: block;
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
-  padding: 60px 80px;
-  color: white;
-  font-family: "Inter", Arial, sans-serif;
+  padding: 0 60px 80px;
+  color: #ffffff;
 }
 
 .footer__social-heading {
@@ -12,6 +10,7 @@
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
+  margin-bottom: 20px;
 }
 
 .footer__content {
@@ -36,6 +35,7 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+  margin-bottom: 16px;
 }
 .footer__list-item:last-child {
   margin-bottom: 0;
@@ -59,7 +59,7 @@
 }
 
 .footer__copyright {
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
