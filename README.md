@@ -18,6 +18,6 @@ I'm not gonna lie, this project was the most challenging thus far. I have a lot 
 ##About this project:
 With this project, we got more in depth with BEM and adding more things to our page such as fonts, videos, forms and more transitions. You can see a lot of it goes into action!
 
-You can view the webpage here: https://github.com/FEEXX56/se_project_coffeeshop
+You can view the webpage here: https://github.com/FEEXX56/se_project_coffeeshop.git
 
 Thank you :)

@@ -21,7 +21,7 @@
 
 .recipes__subtitle {
   max-width: 438px;
-  font-family: "Noto Serif", "Arial", sans-serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
@@ -32,17 +32,22 @@
   display: flex;
   gap: 100px;
   justify-content: center;
-  position: relative;
-  top: 204px;
+}
+
+.recipes__iframe {
+  display: block;
+  border: none;
+  width: 560px;
+  height: 315px;
 }
 
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
-  margin: 24px 0 215px;
+  margin: 24px;
 }
